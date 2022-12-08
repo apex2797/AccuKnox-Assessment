@@ -1,0 +1,10 @@
+Date:6-7-2022 Eater_Id:3 food_Id_log:5 cost: Rs.163
+Date:2-7-2022 Eater_Id:3 food_Id_log:1 cost: Rs.116
+Date:6-7-2022 Eater_Id:1 food_Id_log:3 cost: Rs.339
+Date:2-7-2022 Eater_Id:4 food_Id_log:5 cost: Rs.242
+Date:11-7-2022 Eater_Id:1 food_Id_log:1 cost: Rs.217
+Date:3-7-2022 Eater_Id:2 food_Id_log:4 cost: Rs.213
+Date:9-7-2022 Eater_Id:1 food_Id_log:3 cost: Rs.391
+Date:1-7-2022 Eater_Id:2 food_Id_log:4 cost: Rs.211
+Date:9-7-2022 Eater_Id:3 food_Id_log:2 cost: Rs.302
+Date:11-7-2022 Eater_Id:1 food_Id_log:1 cost: Rs.174
